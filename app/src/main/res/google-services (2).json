@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242904564829",
+    "project_id": "annapurnaapp-76388",
+    "storage_bucket": "annapurnaapp-76388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242904564829:android:6a711abe6366e85de4f9b4",
+        "android_client_info": {
+          "package_name": "com.example.annapurnaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242904564829-6r3l606omcqmnmgs0q87n14h5eebksvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpbqZKYIT7zcmyPvUnRlPKVZUrUq9nywU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242904564829-6r3l606omcqmnmgs0q87n14h5eebksvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
